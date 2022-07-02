@@ -2,7 +2,7 @@ cmake_minimum_required(VERSION 2.8)
 
 set(CMAKE_BUILD_TYPE Release)
 #set(CMAKE_CXX_FLAGS "-std=c++11 -O2")
-set(CMAKE_CXX_STANDARD 14)
+set(CMAKE_CXX_STANDARD 14)  #fix bugs by almond 20220702
 
 
 
